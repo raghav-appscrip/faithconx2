@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Faithconx</string>
+    <string name="email">Email*</string>
+    <string name="password">Password*</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="button">Button</string>
+    <string name="or">OR</string>
+    <string name="log_in">Log In</string>
+    <string name="login_with_facebook">Login With Facebook</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="login_with_phone_number">Login With Phone Number</string>
+
+    <string name="enter_your_phone_number">Phone Number*</string>
+    <string name="enter_the_otp">Enter the OTP</string>
+    <string name="verify_phone_number">Verify Phone Number</string>
+    <string name="get_otp">Get Otp</string>
+    <string name="log_in_with_email">Log In With Email</string>
+    <string name="login_with_email">LOGIN WITH EMAIL</string>
+    <string name="signup">SignUp</string>
+    <string name="last_name">Last Name*</string>
+    <string name="first_name">First Name*</string>
+    <string name="confirm_password">Confirm Password*</string>
+    <string name="passwordSignUp">Password*</string>
+
+    <string name="continueSignUp">Continue</string>
+    <string name="don_t_have_an_account_create_one">
+    <![CDATA[Do not have an account? <font color="#FF0000">Create One</font>]]></string>
+    <string name="i_accept_terms_and_conditions_and_n_privacy_policies">
+    <![CDATA[I accept <font color="#0828D8">terms and conditions</font> and \n <font color="#0828D8">privacy policies.</font>]]></string>
+    <string name="sign_out">Sign OUT</string>
+
+</resources>

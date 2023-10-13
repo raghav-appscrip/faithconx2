@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomHintText" parent="TextAppearance.Design.Hint">
+        <item name="android:textSize">16sp</item> <!-- Adjust the text size as needed -->
+        <item name="android:textColor">@color/primaryColorDark</item> <!-- Change the text color as needed -->
+        <item name="android:gravity">top</item> <!-- Adjust the vertical alignment -->
+    </style>
+
+</resources>

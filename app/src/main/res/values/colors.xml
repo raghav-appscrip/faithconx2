@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#0828D8</color>
+    <color name="grey">#AAAFCB</color>
+    <color name="round_button_color">#D3D3D3</color>
+    <color name="background_button">#3B5998</color>
+    <color name="background_tint_login_phone">#7059EC</color>
+    <color name="text_no_account_login">#858AA8</color>
+
+    <color name="primaryColor">#EDAE03</color>
+    <color name="primaryColorDark">#3B5998</color>
+    <color name="primaryColorAccent">#7059EC</color>
+
+
+
+</resources>

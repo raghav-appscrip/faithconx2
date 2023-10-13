@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794804003614",
+    "project_id": "faithconx-8e667",
+    "storage_bucket": "faithconx-8e667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794804003614:android:e6c4f2181ca8eb241b1f0f",
+        "android_client_info": {
+          "package_name": "com.example.faithconx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABSS6SFKihdJcWE1cx8bYcsKUbUlOK5iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
